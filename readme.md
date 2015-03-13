@@ -1,23 +1,3 @@
-## Laravel PHP Framework
+# Books Management Webapp
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa adipisci, saepe! Facilis architecto ducimus expedita perferendis earum ullam veritatis ipsum animi ad illum at optio voluptas sed ea maxime nostrum officia perspiciatis quos fugit autem, non illo ipsa nemo vero. Doloremque veritatis magni deserunt amet rem eos nostrum molestiae vitae cum corporis earum labore sapiente perspiciatis exercitationem, in id atque! Et esse vero temporibus sit autem ab provident beatae molestias voluptate, libero explicabo totam doloremque facilis voluptatum rem maiores error! Omnis eligendi unde cumque eveniet assumenda, sapiente, id aliquam voluptatibus, voluptate magni quos. Maiores id quidem sint iusto officia nobis veritatis rerum, nam culpa aut accusantium architecto vitae, nulla eum. Tempore expedita pariatur commodi ex. Quibusdam atque porro, ab dolorem quidem iusto quae.
