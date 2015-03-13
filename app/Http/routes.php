@@ -15,3 +15,10 @@ Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',
 ]);
+
+Route::get('/', 'PagesController@home');
+
+Route::get('/books', [
+	'as'   => 'books.index',
+	'uses' => 'BooksController@index'
+]);
